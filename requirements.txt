@@ -1,0 +1,7 @@
+streamlit
+openai-whisper
+SpeechRecognition
+selenium
+spacy
+pyaudio
+webdriver-manager
